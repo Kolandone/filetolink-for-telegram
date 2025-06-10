@@ -17,7 +17,7 @@
 - **کتابخانه‌های Python**:
   - نصب با دستور زیر:
     ```
-    pip3 install telethon google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+    pip install telethon google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
     ```
 - **دسترسی به Google Drive**:
   - یک فایل `service-account.json` از [Google Cloud Console](https://console.cloud.google.com/) دریافت کنید.
@@ -45,7 +45,7 @@
 2. **نصب پیش‌نیازها**:
    - کتابخانه‌ها را نصب کنید:
      ```
-     pip3 install telethon google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+     pip install telethon google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
      ```
 
 
