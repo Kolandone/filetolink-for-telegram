@@ -38,8 +38,8 @@
 1. **دانلود پروژه**:
    - کد را از مخزن GitHub کلون کنید یا فایل‌ها را دستی آپلود کنید:
      ```
-     git clone <repository-url>
-     cd <repository-directory>
+     git clone https://github.com/Kolandone/filetolink-for-telegram.git
+     cd filetolink-for-telegram
      ```
 
 2. **نصب پیش‌نیازها**:
