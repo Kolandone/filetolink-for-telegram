@@ -1,0 +1,14 @@
+لینک های مورد نیاز:
+https://drive.google.com/
+https://console.cloud.google.com/
+https://my.telegram.org/
+
+کد های مورد نیاز:
+pip install telethon google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+chmod +x /usr/home/account/set.py
+chmod 755 /usr/home/account/temp
+chmod 644 /usr/home/account/bot.log
+crontab -e
+
+*/3 * * * * /usr/home/account/run_bot.sh
